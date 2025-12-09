@@ -44,7 +44,6 @@ function App() {
           Test Link
         </a>
         <br />
-        <img src="src/assets/TFIT.jpg" alt="Fuck you"> 
       </div>
     </main>
   );
