@@ -43,6 +43,8 @@ function App() {
         <a href = "https://www.youtube.com/watch?v=uhA1hmIuFPk">
           Test Link
         </a>
+        <br />
+        <img src="assets/img_chania.jpg" alt="Fuck you"> 
       </div>
     </main>
   );
