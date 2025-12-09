@@ -32,13 +32,14 @@ function App() {
         ))}
       </ul>
       <div>
-        🥳 App successfully hosted. Try creating a new todo.<br>
+        🥳 App successfully hosted. Try creating a new todo.
+        <br />
         skibidi
         <br />
         <a href="https://docs.amplify.aws/react/start/quickstart/#make-frontend-updates">
           Review next step of this tutorial.
         </a>
-        <br>
+        <br />
         <a href = "https://www.youtube.com/watch?v=uhA1hmIuFPk">
           Test Link
         </a>
