@@ -44,6 +44,7 @@ function App() {
           Test Link
         </a>
         <br />
+        <button>Sign out</button>
       </div>
     </main>
   );
