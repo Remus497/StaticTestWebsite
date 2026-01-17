@@ -13,23 +13,15 @@ function App() {
     });
   }, []);
 
-  function createTodo() {
-    client.models.Todo.create({ content: window.prompt("Todo content") });
-  }
-  
-  function deleteTodo(id: string) {
-    client.models.Todo.delete({ id })
-  }
-
   return (
     <main>
+      skibidi
+      <br />
+      <a href = "https://www.youtube.com/watch?v=uhA1hmIuFPk">
+        Test Link
+      </a>
+      <br />
       <div>
-        skibidi
-        <br />
-        <a href = "https://www.youtube.com/watch?v=uhA1hmIuFPk">
-          Test Link
-        </a>
-        <br />
         <form action="/action_page.php">
           <label for="fname">First name:</label><br />
           <input type="text" id="fname" name="fname" value="John"><br />
