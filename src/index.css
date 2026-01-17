@@ -7,6 +7,7 @@ body {
   width: 100vw;
   justify-content: normal;
   align-items: normal;
+  padding: 1em;
 }
 
 main {
