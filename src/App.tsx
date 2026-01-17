@@ -2,7 +2,9 @@
 function App() {
   return (
     <main>
-      skibidi
+      <body>
+        skibidi
+      </body>
       <br />
       <a href = "https://www.youtube.com/watch?v=uhA1hmIuFPk">
         Test Link
